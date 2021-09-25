@@ -1,8 +1,23 @@
-- 👋 Hi, I’m @MarkTiger
-- 👀 I’m interested in RPG games and Coding
-- 🌱 I’m currently learning to become fullstack JS Dev
+## Hi there 👋
+Full-stack JS Developer, I am passionate programmer and keen to
+learn more about programming, especially game development.
 
-<!---
-MarkTiger/MarkTiger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Skill
+- JS
+- HTML & CSS
+- React
+- React Native
+- Express.js
+- PostgreSQL
+- Sequelize
+- MongoDB
+- GraphQL
+- Redis
+- jQuery
+
+### Bio
+- I live in Jakarta, Indonesia
+- I like to code and play games
+
+### Contact
+- [LinkedIn](https://www.linkedin.com/in/marco-tiger/)
