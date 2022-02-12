@@ -1,19 +1,14 @@
 ## Hi there 👋
-Full-stack JS Developer, I am passionate programmer and keen to
-learn more about programming, especially game development.
+I'm javascript developer
 
 ### Skill
 - JS
 - HTML & CSS
-- React
-- React Native
+- React / Next.js
 - Express.js
-- PostgreSQL
-- Sequelize
+- PostgreSQL / MySQL
 - MongoDB
-- GraphQL
 - Redis
-- jQuery
 
 ### Bio
 - I live in Jakarta, Indonesia
